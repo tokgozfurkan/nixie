@@ -1,0 +1,7 @@
+Added Component: Designator=*T(DA2032AL)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "994-DA2032-ALD"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=nixieClockSchematic Member=Component *T DA2032-AL
+Added Member To Class: ClassName=nixieClockSchematic Member=Component U? TPIC6B595N
+Added Member To Class: ClassName=nixieClockSchematic Member=Component U? TPIC6B595N
+Added Member To Class: ClassName=nixieClockSchematic Member=Component U? TPIC6B595N
