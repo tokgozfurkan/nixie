@@ -1,2 +1,2 @@
-# nixie
-nixie clock 
+# MSF radio controlled Nixie clock project
+
